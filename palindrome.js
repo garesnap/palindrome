@@ -16,5 +16,5 @@ function palindrome(str) {
   
   
 console.log(palindrome('_eye'));
-  //console.log(palindrome("hey buddy"));
+
 

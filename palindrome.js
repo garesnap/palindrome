@@ -9,12 +9,8 @@ function palindrome(str) {
     else{
         return false;
     }
-    
-    
   }
-  
-  
-  
+// testing functionality
 console.log(palindrome('_eye'));
 
 
